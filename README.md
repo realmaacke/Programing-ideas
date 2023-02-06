@@ -9,5 +9,4 @@
 ## Optional language
 
 - Create IDE
-- 
 - Online code editor
